@@ -8,5 +8,8 @@
     <string name="action_share">Share</string>
 
     <string name="up">Up</string>
+    <string name="no_new_articles">There weren\'t any new articles we could add</string>
+    <string name="articles_added">Articles updated, choose one and have a good read!</string>
+    <string name="articles_refreshed">Articles refreshed! Have fun!</string>
 
 </resources>
