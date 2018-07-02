@@ -52,7 +52,7 @@ public class ArticleDetailActivity extends AppCompatActivity
         setContentView(R.layout.activity_article_detail);
 
 
-        progressBar = findViewById(R.id.progressBar);
+        progressBar = (ProgressBar) findViewById(R.id.progressBar);
         progressBar.setVisibility(View.VISIBLE);
         mPager = (ViewPager) findViewById(R.id.pager);
 
